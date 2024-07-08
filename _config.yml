@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://E-namel.github.io/E_namel.github.io
+url: https://E-namel.github.io/E-namel.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:E-namel/E_namel.github.io.git
+  repo: git@github.com:E-namel/E-namel.github.io.git
   branch: gh-pages
